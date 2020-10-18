@@ -1,2 +1,2 @@
-git init
-git clone https://github.com/catsAndSuicide/git-sheet
+- git init
+- git clone https://github.com/catsAndSuicide/git-sheet
